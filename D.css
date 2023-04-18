@@ -1,0 +1,23 @@
+.navBar{
+
+display: flex;
+justify-content:space-between;
+
+}
+
+ul{
+    width: 100%;
+    border: solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    height: 50px;
+}
+.all{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    border:solid;
+}
